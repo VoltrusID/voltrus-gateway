@@ -1,6 +1,8 @@
 # Voltrus SDKs
+[![CI](https://github.com/VoltrusID/voltrus-gateway/actions/workflows/ci.yml/badge.svg)](https://github.com/VoltrusID/voltrus-gateway/actions/workflows/ci.yml)
 
 Official client SDKs for the [Voltrus SCADA](https://voltrus.com) server.
+Target: Voltrus v1 HTTP API, tested against server 0.47.x. See each SDK README for authentication, examples, and troubleshooting.
 
 | Language | Package | Install |
 |----------|---------|---------|
