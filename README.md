@@ -1,3 +1,5 @@
+> **Note:** the SDKs now live in the `sdks/` directory of the Voltrus SCADA core repository, which is the source of truth: <https://github.com/VoltrusID/voltrus-scada>. Please open issues and pull requests there.
+
 # Voltrus SDKs
 [![CI](https://github.com/VoltrusID/voltrus-gateway/actions/workflows/ci.yml/badge.svg)](https://github.com/VoltrusID/voltrus-gateway/actions/workflows/ci.yml)
 
